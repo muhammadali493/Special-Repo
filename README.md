@@ -2,9 +2,9 @@
 <h2 align="center">A passionate Java developer from Pakistan </h2>
 <h3 align="center">Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="its-kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali493&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali493" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-kumar&theme=juicyfresh" alt="its-kumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadali493&theme=juicyfresh" alt="muhammadali493" /></a> </p>
 
 - 💬 Ask me about **Java, Git** etc, I'll be happy to help.
 
